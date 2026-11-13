@@ -35,6 +35,26 @@ const questionsDB = [
     { cat: "Despedida de Soltero", q: "¿Cuál de estas cosas NUNCA haría Bernal en su boda?", a: ["Bailar el vals", "Llorar en el altar", "Chulonearme", "Dar un discurso"], correct: 2 },
     { cat: "Despedida de Soltero", q: "¿Qué estilo de música (o artista) es imposible que suene en su boda?", a: ["Juan Luis Guerra", "Bacilos", "Chichi Peralta", "Los REDD"], correct: 1 },
     { cat: "Despedida de Soltero", q: "¿Cuántos invitados se esperan en la boda?", a: ["125", "135", "120", "130"], correct: 3 }
+    { cat: "Despedida de Soltero", q: "¿Dónde se dieron su primer beso Bernal y Carla?", a: ["En una fiesta", "En la universidad", "En un bar", "En la playa"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es la bebida alcohólica favorita de Bernal en una fiesta?", a: ["Cerveza", "Tequila", "Ron", "Whisky"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién tarda más tiempo en alistarse para salir?", a: ["Carla", "Bernal", "Los dos tardan exactamente lo mismo", "Depende de quién maneje"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién suele pedir perdón primero después de una discusión?", a: ["Bernal", "Carla", "Ninguno, esperan a que se les pase", "Se arreglan pidiendo comida"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es el destino de luna de miel de Bernal y Carla?", a: ["Europa", "Caribe / Playa", "Asia", "Estados Unidos"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es la mayor maña o costumbre rara de Bernal en casa?", a: ["Dejar la toalla mojada en la cama", "Quedarse dormido viendo series", "Dejar los zapatos por toda la casa", "Tardarse horas en el baño"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién maneja mejor según ellos mismos?", a: ["Bernal", "Carla", "Los dos dicen que el otro maneja mal", "Prefieren pedir Uber"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es el apodo cariñoso que más usan entre ellos?", a: ["Amor / Mi amor", "Gordo / Gorda", "Bebé", "Por su nombre"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Qué es lo que más le enoja a Bernal cuando ve jugar al Arsenal (Gooners)?", a: ["El arbitraje", "Cuando fallan goles cantados", "Los cambios del técnico", "Los comentaristas"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién es más probable que termine hasta tarde en la fiesta de la boda?", a: ["Bernal", "Carla", "Los dos hasta que apaguen las luces", "Ninguno, se van temprano al hotel"], correct: 0 },
+{ cat: "Despedida de Soltero", q: "¿Qué fue lo primero que le llamó la atención a Bernal de Carla cuando la conoció?", a: ["Su sonrisa", "Sus ojos", "Su sentido del humor", "Su forma de bailar"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es la comida o ingrediente que Bernal detesta y nunca pediría?", a: ["Cebolla", "Aceitunas", "Aguacate", "Hongos / Champiñones"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién es más gastador o impulsivo con las compras en pareja?", a: ["Carla", "Bernal", "Los dos son igual de ahorradores", "Depende de si es ropa o tecnología"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es el plan perfecto de domingo para Bernal y Carla?", a: ["Quedarse viendo series todo el día", "Ir a almorzar en familia", "Salir a pasear con sus perros", "Ir a la playa o lago"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Qué serie o película han visto juntos más de una vez?", a: ["Friends", "The Office", "How I Met Your Mother", "Harry Potter"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién se queda dormido primero cuando ponen una película en la noche?", a: ["Carla", "Bernal", "Los dos se duermen a los 15 minutos", "Ninguno, siempre la terminan"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es el regalo más memorable que Bernal le ha dado a Carla?", a: ["Un viaje sorpresa", "Una joya o reloj", "Un álbum o carta hecha a mano", "Su mascota"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Qué canción no puede faltar en la fiesta de la boda para que Bernal se suba a bailar?", a: ["Un clásico de reggaetón viejo", "Una cumbia / merengue", "Un rock en español", "Una salsa"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Quién es más probable que llore primero durante los votos de la boda?", a: ["Bernal", "Carla", "Los dos van a llorar al mismo tiempo", "Ninguno, son de piedra"], correct: 0 },
+    { cat: "Despedida de Soltero", q: "¿Cuántos hijos han dicho que les gustaría tener en el futuro?", a: ["2", "1", "3", "Solo perrijos por ahora"], correct: 0 },
 ];
 
 let rooms = {};
