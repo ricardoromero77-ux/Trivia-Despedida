@@ -126,7 +126,7 @@
             </div>
         </div>
         <div id="player-waiting-area" class="hidden" style="text-align: center;">
-            <h2 style="color: var(--primary);">✅ ¡A Bordo de la XAVINETA!</h2>
+            <h2 style="color: var(--primary);">✅ ¡A Bordo de la CARLINETA!</h2>
             <p>Mira la pantalla principal...</p>
         </div>
         <div id="player-game-area" class="hidden">
@@ -275,10 +275,10 @@
         fb.classList.remove('hidden');
         if(data.isCorrect) {
             fb.style.backgroundColor = "var(--correct)"; fb.style.color = "black";
-            fb.innerHTML = "🎉 ¡CORRECTO!";
+            fb.innerHTML = "🎉 ¡LA METISTE!";
         } else {
             fb.style.backgroundColor = "var(--wrong)"; fb.style.color = "white";
-            fb.innerHTML = `❌ INCORRECTO<br><span style="font-size:0.9rem">Era:</span><br>${data.correctText}`;
+            fb.innerHTML = `❌ COMISTE PITO<br><span style="font-size:0.9rem">Era:</span><br>${data.correctText}`;
         }
     });
 </script>
