@@ -34,7 +34,7 @@ const questionsDB = [
     { cat: "Despedida de Soltero", q: "¿Quién suele tomar más fotos cuando salen juntos?", a: ["Carla", "Bernal", "Ninguno toma fotos", "Siempre le piden a alguien más"], correct: 0 },
     { cat: "Despedida de Soltero", q: "¿Cuál de estas cosas NUNCA haría Bernal en su boda?", a: ["Bailar el vals", "Llorar en el altar", "Chulonearme", "Dar un discurso"], correct: 2 },
     { cat: "Despedida de Soltero", q: "¿Qué estilo de música (o artista) es imposible que suene en su boda?", a: ["Juan Luis Guerra", "Bacilos", "Chichi Peralta", "Los REDD"], correct: 1 },
-    { cat: "Despedida de Soltero", q: "¿Cuántos invitados se esperan en la boda?", a: ["125", "135", "120", "130"], correct: 3 }
+    { cat: "Despedida de Soltero", q: "¿Cuántos invitados se esperan en la boda?", a: ["125", "135", "120", "130"], correct: 3 },
     { cat: "Despedida de Soltero", q: "¿Dónde se dieron su primer beso Bernal y Carla?", a: ["En una fiesta", "En la universidad", "En un bar", "En la playa"], correct: 0 },
     { cat: "Despedida de Soltero", q: "¿Cuál es la bebida alcohólica favorita de Bernal en una fiesta?", a: ["Cerveza", "Tequila", "Ron", "Whisky"], correct: 0 },
     { cat: "Despedida de Soltero", q: "¿Quién tarda más tiempo en alistarse para salir?", a: ["Carla", "Bernal", "Los dos tardan exactamente lo mismo", "Depende de quién maneje"], correct: 0 },
