@@ -24,7 +24,7 @@ const questionsDB = [
     { cat: "Despedida de Soltero", q: "¿Cuántas mascotas tienen en conjunto Bernal y Carla?", a: ["1 (Benito)", "3 (Benito, Valentino y Bobby)", "2 Benito y Valentino (4 si es Bobby y Pablo)", "Ninguna"], correct: 2 },
     { cat: "Despedida de Soltero", q: "¿Qué les gusta hacer juntos en su tiempo libre?", a: ["Ir al Majestic", "Hablar mierda de Perna", "Ir a la Playa y empanizarnos", "Cocinar"], correct: 1 },
     { cat: "Despedida de Soltero", q: "¿En qué mes celebran su aniversario de novios?", a: ["Mayo (29/05/2014)", "Abril (15/04/2014)", "Junio (29/06/2014)", "Agosto (12/08/2014)"], correct: 0 },
-    { cat: "Despedida de Soltero", q: "¿Cuál es una comida que ambos disfrutan?", a: ["Carnia Asada", "Sushi", "Tacos al pastor", "Ceviche"], correct: 3 },
+    { cat: "Despedida de Soltero", q: "¿Cuál es una comida que ambos disfrutan?", a: ["Carne Asada", "Sushi", "Tacos al pastor", "Ceviche"], correct: 3 },
     { cat: "Despedida de Soltero", q: "¿Cuántos años tiene Carla?", a: ["29", "30", "31", "32"], correct: 2 },
     { cat: "Despedida de Soltero", q: "¿Cuánto tiempo llevaban de novios cuando se comprometieron?", a: ["9 años", "11 años", "10 años", "12 años"], correct: 1 },
     { cat: "Despedida de Soltero", q: "¿Quién dio el primer paso en la relación?", a: ["Bernal", "Carla", "Fue mutuo al mismo tiempo", "Un amigo los presentó y los empujó"], correct: 0 },
